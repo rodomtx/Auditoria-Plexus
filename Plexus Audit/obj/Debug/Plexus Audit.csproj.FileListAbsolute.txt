@@ -1,0 +1,29 @@
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\33 Dev\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\Plexus Audit.exe.config
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\Plexus Audit.exe.config
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\Plexus Audit.exe
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\Plexus Audit.pdb
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\itextsharp.dll
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.csprojResolveAssemblyReference.cache
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus_Audit.Properties.Resources.resources
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.csproj.GenerateResource.Cache
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.exe
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.pdb
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\Resources\logo_header.png
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus_Audit.Auditoria.resources
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus_Audit.login.resources
+C:\Users\rodolfo.martinez\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus_Audit.Auditar.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\Plexus Audit.exe.config
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.pdb
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\Resources\logo_header.png
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\Plexus Audit.exe
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\Plexus Audit.pdb
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\bin\Debug\itextsharp.dll
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus_Audit.Auditar.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus_Audit.Auditoria.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus_Audit.login.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus_Audit.Properties.Resources.resources
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.csproj.GenerateResource.Cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.csprojAssemblyReference.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.csproj.CoreCompileInputs.cache
+C:\Users\rodolfo.martinez\OneDrive - Lancer Corporation\Desktop\plexus audit\Plexus Audit\Plexus Audit\obj\Debug\Plexus Audit.csproj.CopyComplete
